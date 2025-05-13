@@ -1,5 +1,5 @@
 
-![VoidSec Animation](https://github.com/CypherNova1337/vid/blob/main/VoidSec.gif?raw=true)
+![VoidSec Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVtMDRvaHM1bndmOWtsdG0wdzA1Yjl0cGdsZGlodHV6NDNnZmplNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFwV8gEmEV8ULosMmI/giphy.gif)
 
 
 ### `whoami`
