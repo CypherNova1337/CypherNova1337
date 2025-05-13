@@ -1,5 +1,5 @@
 
-![VoidSec Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc205NmozZzB6MnQ2bnF3bjNlYng5YWlsZGJqM2IxdXY4aW55NDY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFwV8gEmEV8ULosMmI/giphy.gif)
+![VoidSec Animation]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc205NmozZzB6MnQ2bnF3bjNlYng5YWlsZGJqM2IxdXY4aW55NDY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFwV8gEmEV8ULosMmI/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVtMDRvaHM1bndmOWtsdG0wdzA1Yjl0cGdsZGlodHV6NDNnZmplNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFwV8gEmEV8ULosMmI/giphy.gif))
 
 
 ### `whoami`
