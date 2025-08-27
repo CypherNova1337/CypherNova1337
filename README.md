@@ -1,6 +1,5 @@
 
-![VoidSec Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVtMDRvaHM1bndmOWtsdG0wdzA1Yjl0cGdsZGlodHV6NDNnZmplNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFwV8gEmEV8ULosMmI/giphy.gif)
-
+![VoidSec Animation](https://github.com/user-attachments/assets/4e3bd10f-270a-4044-8131-0578570fbc30)
 
 ### `whoami`
 
