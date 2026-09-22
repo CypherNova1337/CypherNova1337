@@ -23,6 +23,13 @@ Still learning, always probing. Complacency is the enemy.
 
 ---
 
+### `tail -f /var/log/writeups`
+
+Longer-form work that won't fit in a repo — tooling teardowns, tradecraft I'd have wanted handed to me early on, and the occasional unflattering look at how this industry actually operates. **No paywall, no member-only posts — same as everything else here.**
+
+[![Medium](https://img.shields.io/badge/medium-@cyphernova1337-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@cyphernova1337)
+
+---
 
 ### `echo $TIP_JAR`
 
