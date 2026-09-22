@@ -32,6 +32,18 @@ I keep a low profile. Most social media is just noise pollution contradicting th
 
 ---
 
+### `echo $TIP_JAR`
+
+Everything here stays free. No paywalls, no "premium tier," no gated Discord. That isn't changing.
+
+But if something of mine was actually useful to you — a tool you run, a repo I tore into and handed the findings back on, an answer that got you unstuck — and you feel like it, the jar's over here:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-%E2%98%95-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/Cyphernova1337)
+
+> **Never required, never expected.** I won't ask for it in an issue, a PR, a DM, or a repo README — this page is the only place it lives. Ask me for help either way; the answer costs nothing.
+
+---
+
 ### `// System Message`
 
 > "The best hacks are the ones that make people think, not just the ones that grant access."
