@@ -23,14 +23,6 @@ Still learning, always probing. Complacency is the enemy.
 
 ---
 
-### `netstat -an | grep LISTEN`
-
-I keep a low profile. Most social media is just noise pollution contradicting the core tenets of privacy and security. You *can* find me occasionally, though:
-
-* **[X (Twitter)]**: [@cyphernova1337](https://twitter.com/cyphernova1337) - *Low signal-to-noise ratio observed. Use DMs for direct contact.*
-* **[Telegram Channel]**: [Join the Backchannel](https://t.me/+GAxaDS2xNOc0MTQx) - *Where actual discussion happens.*
-
----
 
 ### `echo $TIP_JAR`
 
