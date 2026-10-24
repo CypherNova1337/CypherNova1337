@@ -1,6 +1,11 @@
 
 ![VoidSec Animation](https://github.com/CypherNova1337/vid/blob/main/VoidSec.gif?raw=true)
 
+### `./scoreboard --top`
+
+> 🥇 **First place — SecureWV 17 CTF**
+
+---
 
 ### `whoami`
 
