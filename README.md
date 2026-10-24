@@ -3,7 +3,7 @@
 
 ### `./scoreboard --top`
 
-> 🥇 **First place — SecureWV 17 CTF**
+> 🥇 **First place — SecureWV 17 CTF — 2026**
 
 ---
 
